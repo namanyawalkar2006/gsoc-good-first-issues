@@ -43,3 +43,9 @@ The repo contains a filtered list of good first issues from previous year organi
 
  - https://github.com/oppia/oppia/issues/12507
 
+## 🛠 Technologies Used
+
+* **Python 3.x**
+* **OpenCV**: For face detection and recognition.
+* **Pandas**: For managing attendance data.
+* **Tkinter**: For the graphical user interface.
